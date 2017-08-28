@@ -4,8 +4,8 @@ ARText by ARKit
 ![Alt text](artext.gif)
 
 ## More Demo Video:
-https://www.youtube.com/watch?v=ZBY_wKx3ckQ&t=1s </p>
-https://twitter.com/GreenLakeApp/status/890999351669137408
+[Demo 1](https://www.youtube.com/watch?v=ZBY_wKx3ckQ&t=1s) </p>
+[Demo 2](https://twitter.com/GreenLakeApp/status/890999351669137408)
 
 ## Web Page:
 http://artext.co
